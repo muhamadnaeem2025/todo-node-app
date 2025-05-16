@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 2rem;
+}
+input {
+  padding: 0.5rem;
+}
+button {
+  padding: 0.5rem;
+}
+li {
+  margin: 1rem 0;
+}
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
